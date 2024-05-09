@@ -46,7 +46,7 @@ int main() {
         cout << num << " ";
     }
 
-     cout << endl;
+    cout << endl;
 
     f3(nums);
 }
